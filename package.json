@@ -1,0 +1,33 @@
+{
+  "name": "fake-error-generator",
+  "version": "1.0.0",
+  "description": "Generate fake console errors, warnings, logs, and info messages for pranking or fun demos.",
+  "main": "index.js",
+  "keywords": [
+    "fake",
+    "error",
+    "console",
+    "prank",
+    "fun",
+    "demo",
+    "node",
+    "developer",
+    "logs"
+  ],
+  "author": "Menula De Silva",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DMS-Menula/fake-error-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DMS-Menula/fake-error-generator/issues"
+  },
+  "homepage": "https://github.com/DMS-Menula/fake-error-generator#readme",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
