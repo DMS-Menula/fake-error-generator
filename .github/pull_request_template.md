@@ -10,7 +10,8 @@
 
 ## ✅ Checklist
 
-- [ ] I have read and followed the project's [Contributing Guidelines](https://github.com/Open-Contributers/Open-Contributers/blob/main/CONTRIBUTING.md).
+- [ ] I have read and followed the project's Contributing Guidelines.
+- [ ] I Written The Code With Only using .js
 - [ ] My changes adhere to the project's coding standards and best practices.
 - [ ] I have tested my changes locally and verified that they work as expected.
 - [ ] I have updated the documentation, if necessary.
